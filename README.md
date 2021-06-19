@@ -24,10 +24,10 @@
 
 [<img align ="left" alt = "Node.js" width = "22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">]
 
-[<img align = "left" alt = "Kotlin" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">]
+[<img align = "left" alt = "Kotlin" width="22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">]
 
-[<img align = "left" alt = "Visual Studio Code" src = "https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">]
+[<img align = "left" alt = "Visual Studio Code" width="22px" src = "https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">]
 
-[<img align = "left" alt = "Jupyter Notebook" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">]
+[<img align = "left" alt = "Jupyter Notebook" width="22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">]
 
-[<img align = "left" alt = "linux" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" >]
+[<img align = "left" alt = "linux" width="22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" >]
